@@ -1,9 +1,9 @@
 package main;
 
-import gui.CalculatorGUI;
+import gui.CalculatorDisplay;
 
 public class Calculator {
 	public static void main(String[] args) {
-		CalculatorGUI cGUI = new CalculatorGUI();
+		CalculatorDisplay cGUI = new CalculatorDisplay();
 	}
 }
