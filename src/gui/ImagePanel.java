@@ -6,6 +6,7 @@ import java.awt.Image;
 import javax.swing.JPanel;
 
 public class ImagePanel extends JPanel {
+	private static final long serialVersionUID = 1L;
 	private Image backImage;
 	private int width, height;
 	public ImagePanel(Image bk, int w, int h) {
